@@ -1,0 +1,7 @@
+autogen
+python-dotenv
+streamlit
+groq
+openai
+pytest
+markdown
