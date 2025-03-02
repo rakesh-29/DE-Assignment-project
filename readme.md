@@ -52,11 +52,12 @@ DE-Assignment-project/
    pip install -r requirements.txt
    ```
 3. Set Environment Variables  in .env
-    Add environment variables:
+
+   Add environment variables:
     - `OPENAI_API_KEY`: Your OpenAI API key
     - `GROQ_API_KEY`: Your Groq API key
   
-4. Run the Streamlit app:
+5. Run the Streamlit app:
    ```bash
    streamlit run app.py
    ```
